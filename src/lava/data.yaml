@@ -1,14 +1,47 @@
 title: Kuidas ehitada lava?
-text: |
-    - [Sissejuhatus](./lava/sissejuhatus)
-    - [Kaneelirullide retsept](./kaneelirullid)
-    - [Heli](./lava/heli) - _Kuidas jõuab heli lavalt publikusse?_
-    - [Pilt](./lava/pilt) - _Kuidas teha lavale taust?_
-    - [Valgus](./lava/valgus) - _Kuidas valgustada lava?_
-    - [Animatsioon](./lava/animatsioon) - _Kuidas panna laval pilt liikuma?_
-    - [Jõud](./lava/joud) - _Kuidas tõsta laval raskeid asju?_
-    - [Liikumine](./lava/liikumine) - _Kuidas laval esineja liikumisele efekti lisada?_
-    - [Eriefektid](./lava/eriefektid) - _Kuidas näha laval asju, mida seal tegelikult ei ole?_
-    - [Muusika](./lava/muusika) - _Kuidas teha digitaalset muusikat?_
-    - [Mootor](./lava/mootor) - _Kuidas ehitada pöördlava?_
-    - [Lõpupidu ja/või ekskursioon](./lava/lopupidu)
+links:
+    -
+        title: Sissejuhatus
+        url: ./lava/sissejuhatus
+    -
+        title: Kaneelirullide retsept
+        url: ./kaneelirullid
+    -
+        title: Heli
+        subtitle: Kuidas jõuab heli lavalt publikusse?
+        url: ./lava/heli
+    -
+        title: Pilt
+        subtitle: Kuidas teha lavale taust?
+        url: ./lava/pilt
+    -
+        title: Valgus
+        subtitle: Kuidas valgustada lava?
+        url: ./lava/valgus
+    -
+        title: Animatsioon
+        subtitle: Kuidas panna laval pilt liikuma?
+        url: ./lava/animatsioon
+    -
+        title: Jõud
+        subtitle: Kuidas tõsta laval raskeid asju?
+        url: ./lava/joud
+    -
+        title: Liikumine
+        subtitle: Kuidas laval esineja liikumisele efekti lisada?
+        url: ./lava/liikumine
+    -
+        title: Eriefektid
+        subtitle: Kuidas näha laval asju, mida seal tegelikult ei ole?
+        url: ./lava/eriefektid
+    -
+        title: Muusika
+        subtitle: Kuidas teha digitaalset muusikat?
+        url: ./lava/muusika
+    -
+        title: Mootor
+        subtitle: Kuidas ehitada pöördlava?
+        url: ./lava/mootor
+    -
+        title: Lõpupidu ja/või ekskursioon
+        url: ./lava/lopupidu
