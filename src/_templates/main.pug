@@ -15,7 +15,9 @@ html(lang=self.locale)
 
         title= title
     body
-        article.mx-auto.p-4.prose.md_prose-md.lg_prose-lg.dark_prose-invert
+        article.mx-auto.p-4.prose.md_prose-md.dark_prose-invert
             if self.title
-                h1= self.title
+                h1(class={ '!mb-0': self.subtitle })= self.title
+            if self.subtitle
+                .mb-10.font-bold.text-2xl.text-gray-400(class='!mt-0')= self.subtitle
             block content

@@ -1,103 +1,124 @@
-title: Eriefektid. Kuidas näha laval asju, mida seal tegelikult ei ole?
+title: Eriefektid
+subtitle: Kuidas näha laval asju, mida seal tegelikult ei ole?
 text: |
     ![](./images/image7.jpg)
 
-    Teemad, millest tunnis rääkida:
 
-    *   Mis on RGB-värvid ehk põhivärvid?
-    *   Kuidas tekitada põhivärvidest kõiki teisi värve?
-    *   Kuidas tekitada tossuefekti?
-    *   Mis on laser, kuidas see töötab ja kus neid kasutatakse?
-    *   Kuidas laserkiirt peeglitega juhtida?
+    ## Teemad, millest tunnis rääkida
 
-    * * *
+    - Mis on RGB-värvid ehk põhivärvid?
+    - Kuidas tekitada põhivärvidest kõiki teisi värve?
+    - Kuidas tekitada tossuefekti?
+    - Mis on laser, kuidas see töötab ja kus neid kasutatakse?
+    - Kuidas laserkiirt peeglitega juhtida?
 
-    Huvitavat
 
-    *   Lasereid ei kasutata ainult eriefektide loomiseks, vaid väga erinevates eluvaldkondades, nt meditsiinis, ehituses, militaartehnoloogias, arvutitehnoloogias, kunstis, kaubanduses.
-    *   Laserid on tänapäeval üsna tavaline laval kasutatav show\-element. Otsi erinevaid laser-show’sid Youtube’ist!
-    *   Laserkiir võib olla väga ohtlik. Võimsamad neist võivad olla isegi kuumemad kui Päikese pind.
-    *   Ära kunagi näita laseriga silma!
+    ## Huvitavat
 
-    Kuidas teha toas lõket?
+    - Lasereid ei kasutata ainult eriefektide loomiseks, vaid väga erinevates eluvaldkondades, nt meditsiinis, ehituses, militaartehnoloogias, arvutitehnoloogias, kunstis, kaubanduses.
+    - Laserid on tänapäeval üsna tavaline laval kasutatav show\-element. Otsi erinevaid laser-show’sid Youtube’ist!
+    - Laserkiir võib olla väga ohtlik. Võimsamad neist võivad olla isegi kuumemad kui Päikese pind.
+    - Ära kunagi näita laseriga silma!
+
+    ## Kuidas teha toas lõket?
 
     Ülesande eesmärk on teha lõkkesimulatsioon, kasutades õhuniisutajat ja värvilisi valgusteid.
 
-    Ülesande läbiviimiseks on vaja: õhuniisutit, voolikut, aukudega toru, teipi, LED prožektoreid või väikseid prozektoreid, millele saab filtreid ette panna, musta riiet katmiseks, puuhalgusid.
+    #### Ülesande läbiviimiseks on vaja
+    - õhuniisutit
+    - voolikut
+    - aukudega toru
+    - teipi
+    - LED prožektoreid või väikseid prozektoreid
+    - millele saab filtreid ette panna
+    - musta riiet katmiseks
+    - puuhalgusid
 
-    Ülesande läbiviimiseks vaata videojuhist “Kuidas teha toas lõket?”  [https://youtu.be/dQZ4qNaoIlc](https://www.google.com/url?q=https://youtu.be/dQZ4qNaoIlc&sa=D&source=editors&ust=1661934512601398&usg=AOvVaw1ZeigEqXQbzlnTteEt7HPQ) , prožektori seadistamise  juhist vaata siit https://youtu.be/77-V\_5FkvfY
+    [Vaata videojuhist](https://youtu.be/dQZ4qNaoIlc)
+    _Prožektori seadistamise juhist [vaata siit](https://youtu.be/77-V\_5FkvfY)_
 
-    Kuidas ise laser-show’d teha?
+    ## Kuidas ise laser-show’d teha?
 
     Ülesande eesmärk on ehitada lihtne laserprojektor, kasutades peegleid, laserit ja kiiruse regulaatoreid.
 
-    Ülesande läbiviimiseks on vaja: laserit, papist alust,  3 ümmargust väikest peeglit, 3 DC mootorit, 3 kiiruse regulaatorit, patareisid, jootekolbi (sh tina ja vaha). NB! Kui mõnel kiiruse regulaatroril on kruvi pead väga ära kulunud ning  “+” kruvikeerajaga on raske keerata, siis proovige “-” otsaga kruvikeerajaga, sellega peaks kenasti saama keerata.
+    #### Ülesande läbiviimiseks on vaja
+    - laserit
+    - papist alust
+    - 3 ümmargust väikest peeglit
+    - 3 DC mootorit
+    - 3 kiiruse regulaatorit
+    - patareisid
+    - jootekolbi (sh tina ja vaha). NB! Kui mõnel kiiruse regulaatroril on kruvi pead väga ära kulunud ning  “+” kruvikeerajaga on raske keerata
+    - siis proovige “-” otsaga kruvikeerajaga
+    - sellega peaks kenasti saama keerata
 
-    Ülesande läbiviimiseks vaata videojuhist “Kuidas ehitada laserprojektor?” [https://youtu.be/H1uJ5xUOxCY](https://www.google.com/url?q=https://youtu.be/H1uJ5xUOxCY&sa=D&source=editors&ust=1661934512602359&usg=AOvVaw1gr0wUBpCHKi6W-9irveSu)
+    [Vaata videojuhist](https://youtu.be/H1uJ5xUOxCY)
 
-    * * *
 
-    Eriefektid
+    ## Kastis on
 
-    Kastis on
+    - 2 õhuniisutit
+    - 2 voolikut
+    - 2 aukudega toru
+    - 4 prožektorit
+    - 2 pikendusjuhet
+    - 2 suurt tükki musta riiet
+    - 10 puust punni
+    - 2 liimipüssi
+    - 2-4 suurt (või 4-8 väikest) padrunit
+    - 6 mootorit
+    - 6 peeglit
+    - 2 laserit koos pesaga
+    - 6 (+1 varu) kiiruse regulaatorit
+    - 6 (+1 varu) 9V patareid
+    - 2 (+1 varu) 6V patareid
+    - 6 (+1 varu) patarei konnektorit
+    - 6 kruvikeerajat
+    - 2 papist alust
+    - 1 maalriteip
+    - 1 koorimistangid
+    - 1 lõiketangid
+    - varujuhe (punane+must)
+    - 1 jootekolb (igaks juhuks parandamiseks, kui mootoril on nt juhe ära tulnud)
+    - 1 tina
+    - 1 jootevedelik
+    - 1 kolvi alus
 
-    *   2 õhuniisutit
-    *   2 voolikut
-    *   2 aukudega toru
-    *   4 prožektorit
-    *   2 pikendusjuhet
-    *   2 suurt tükki musta riiet
-    *   10 puust punni
-    *   2 liimipüssi
-    *   2-4 suurt (või 4-8 väikest) padrunit
-    *   6 mootorit
-    *   6 peeglit
-    *   2 laserit koos pesaga
-    *   6 (+1 varu) kiiruse regulaatorit
-    *   6 (+1 varu) 9V patareid
-    *   2 (+1 varu) 6V patareid
-    *   6 (+1 varu) patarei konnektorit
-    *   6 kruvikeerajat
-    *   2 papist alust
-    *   1 maalriteip
-    *   1 koorimistangid
-    *   1 lõiketangid
-    *   varujuhe (punane+must)
-    *   1 jootekolb (igaks juhuks parandamiseks, kui mootoril on nt juhe ära tulnud)
-    *   1 tina
-    *   1 jootevedelik
-    *   1 kolvi alus
+    NB! “Kastis on” nimekiri sisaldab vahendeid, mis on mõeldud ühe tunni läbiviimiseks. Kui kastis on kulumaterjale rohkem või pakendatud kirjaga “järgmisele grupile”, siis see kast liigub teie käest otse järgmisele grupile ja lisa kulumaterjalid on mõeldud järgmise grupi tunniks.
 
-    Lisaks on vaja (ei ole kaasas):
 
-    *   puuhalud
+    ## Lisaks on vaja (ei ole kaasas)
 
-    Kontrolli, et kasti saaks tagasi:
+    - puuhalud
 
-    *   2 õhuniisutit
-    *   2 voolikut
-    *   2 aukudega toru
-    *   4 prožektorit
-    *   2 pikendusjuhet
-    *   2 suurt tükki musta riiet
-    *   2 liimipüssi
-    *   liimipadrunid, mis alles jäid
-    *   6 mootorit
-    *   6 peeglit
-    *   2 laserit
-    *   6 (+1 varu) kiiruse regulaatorit
-    *   8 (+1 varu) 9V patareid
-    *   6 (+1 varu) patarei konnektorit
-    *   6 kruvikeerajat
-    *   1 maalriteip
-    *   1 koorimistangid
-    *   1 lõiketangid
-    *   varujuhe (punane+must), kui ei läinud vaja
-    *   1 jootekolb
-    *   1 tina
-    *   1 jootevedelik
-    *   1 kolvi alus
 
-    Veel
+    ## Kontrolli, et kasti saaks tagasi
+
+    - 2 õhuniisutit
+    - 2 voolikut
+    - 2 aukudega toru
+    - 4 prožektorit
+    - 2 pikendusjuhet
+    - 2 suurt tükki musta riiet
+    - 2 liimipüssi
+    - liimipadrunid, mis alles jäid
+    - 6 mootorit
+    - 6 peeglit
+    - 2 laserit
+    - 6 (+1 varu) kiiruse regulaatorit
+    - 8 (+1 varu) 9V patareid
+    - 6 (+1 varu) patarei konnektorit
+    - 6 kruvikeerajat
+    - 1 maalriteip
+    - 1 koorimistangid
+    - 1 lõiketangid
+    - varujuhe (punane+must), kui ei läinud vaja
+    - 1 jootekolb
+    - 1 tina
+    - 1 jootevedelik
+    - 1 kolvi alus
+
+
+    ## Veel
 
     Kastis on vahendid kahe lõkke ja kahe laserprojektori tegemiseks. Grupi võib jaotada kaheks, nii et kumbki rühm teeb ühe lõkke ja ühe laseri või väiksemates gruppides, kus ühed teevad lõket ja teised samal ajal laserit. Pärast toimub vahetus. Laseri ülesandes peeglite paika saamine nõuab omajagu täpsust.
