@@ -1,0 +1,16 @@
+mixin markdown(text)
+    | !{ self.md(text) }
+
+- const title = self.title ? `${self.title} · ${self.siteTitle}` : self.siteTitle
+
+doctype html
+html(lang=self.locale)
+    head
+        meta(charset='utf-8')
+        meta(name='viewport' content='width=device-width, initial-scale=1')
+
+        base(href='/unicorn/')
+
+        title= title
+    body
+        block content
