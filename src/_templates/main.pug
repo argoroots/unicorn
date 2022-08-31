@@ -11,6 +11,9 @@ html(lang=self.locale)
 
         base(href='/unicorn/')
 
+        link(href='/style.css', rel='stylesheet')
+
         title= title
     body
-        block content
+        article.mx-auto.p-4.prose.md_prose-md.lg_prose-lg.dark_prose-invert
+            block content
