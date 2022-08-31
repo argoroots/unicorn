@@ -1,21 +1,14 @@
+title: Kuidas ehitada lava?
 text: |
-    HK Unicorn Squad esitleb
-
-    ![](./images/image2.jpg)
-
-    Kuidas ehitada lava?
-
-    Käsiraamatust leiad
-
-    - [Legend](./legend)
+    - [Sissejuhatus](./lava/sissejuhatus)
     - [Kaneelirullide retsept](./kaneelirullid)
-    - [Heli. Kuidas jõuab heli lavalt publikusse?](./lava/heli)
-    - [Pilt. Kuidas teha lavale taust?](./lava/pilt)
-    - [Valgus. Kuidas valgustada lava?](./lava/valgus)
-    - [Animatsioon. Kuidas panna laval pilt liikuma?](./lava/animatsioon)
-    - [Jõud. Kuidas tõsta laval raskeid asju?](./lava/joud)
-    - [Liikumine. Kuidas laval esineja liikumisele efekti lisada?](./lava/liikumine)
-    - [Eriefektid. Kuidas näha laval asju, mida seal tegelikult ei ole?](./lava/eriefektid)
-    - [Muusika. Kuidas teha digitaalset muusikat?](./lava/muusika)
-    - [Mootor. Kuidas ehitada pöördlava?](./lava/mootor)
+    - [Heli](./lava/heli) - _Kuidas jõuab heli lavalt publikusse?_
+    - [Pilt](./lava/pilt) - _Kuidas teha lavale taust?_
+    - [Valgus](./lava/valgus) - _Kuidas valgustada lava?_
+    - [Animatsioon](./lava/animatsioon) - _Kuidas panna laval pilt liikuma?_
+    - [Jõud](./lava/joud) - _Kuidas tõsta laval raskeid asju?_
+    - [Liikumine](./lava/liikumine) - _Kuidas laval esineja liikumisele efekti lisada?_
+    - [Eriefektid](./lava/eriefektid) - _Kuidas näha laval asju, mida seal tegelikult ei ole?_
+    - [Muusika](./lava/muusika) - _Kuidas teha digitaalset muusikat?_
+    - [Mootor](./lava/mootor) - _Kuidas ehitada pöördlava?_
     - [Lõpupidu ja/või ekskursioon](./lava/lopupidu)
