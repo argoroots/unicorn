@@ -1,9 +1,7 @@
 title: Animatsioon
 subtitle: Kuidas panna laval pilt liikuma?
+image: ./images/image6.jpg
 text: |
-    ![](./images/image6.jpg)
-
-
     ## Teemad, millest tunnis rääkida
 
     - Mis on animatsioon?
@@ -20,7 +18,7 @@ text: |
 
     - Sõna animatsioon tuleneb prantsuskeelsest sõnast hing – nii et animeerimine tähendab pildile hinge sisse puhumist.
     - Animeerimine on kallis lõbu. Multikas „Rapuntsel“  („Tangled“) maksis üle 220 miljoni euro ja on seni kõige kallim multikas, mis iial tehtud.
-    - Esimene Eestis valminud ja ekraanile jõudnud joonisfilm  „Kutsu-Juku seiklusi“ pärineb aastast 1931 (otsi Youtube’ist!).
+    - Esimene Eestis valminud ja ekraanile jõudnud joonisfilm  „[Kutsu-Juku seiklusi](https://youtu.be/IDiBmJMGydM)“ pärineb aastast 1931.
 
 
     ## Kuidas teha multikat?
@@ -53,37 +51,47 @@ text: |
     [Vaata videojuhist](https://youtu.be/kqpVYF1nvuU)
 
 
-    ## Kastis on
+additions:
+    -
+        name: nõel, klambripüstol või muu terav ese
+        qty: 1
+    -
+        name: kauss
+        qty: 1
 
-    - värvipliiatsid
-    - 7 harilikku
-    - vildikad
-    - 2 kustukat
-    - 1 teritaja
-    - laste arv + 5 lehte lisa 160g A4 paber
-    - 2 tk käärid
-    - 1 statiiv
-    - 1 iPad (parool on 0090)
-    - iPadi hoidik (käib statiivi külge)
-    - 10 tk õhupallid
+box:
+    -
+        name: värvipliiatsid
+        qty: 1
+    -
+        name: harilik pliiats
+        qty: 7
+    -
+        name: vildikad
+        qty: 1
+    -
+        name: kustukat
+        qty: 2
+    -
+        name: teritaja
+        qty: 1
+    -
+        name: käärid
+        qty: 2
+    -
+        name: statiiv
+        qty: 1
+    -
+        name: iPad (parool on 0090)
+        qty: 1
+    -
+        name: iPadi hoidik (käib statiivi külge)
+        qty: 1
 
-    NB! “Kastis on” nimekiri sisaldab vahendeid, mis on mõeldud ühe tunni läbiviimiseks. Kui kastis on kulumaterjale rohkem või pakendatud kirjaga “järgmisele grupile”, siis see kast liigub teie käest otse järgmisele grupile ja lisa kulumaterjalid on mõeldud järgmise grupi tunniks.
-
-
-    ## Lisaks on vaja (ei ole kaasas)
-
-    - nõel v klambripüstol v muu terav ese
-    - kauss
-
-
-    ## Kontrolli, et kasti saaks tagasi
-
-    - värvipliiatsid
-    - 7 harilikku
-    - vildikad
-    - 2 kustukas
-    - 1 teritaja
-    - 2 tk käärid
-    - 1 statiiv
-    - 1 iPad
-    - iPadi hoidik
+consumables:
+    -
+        name: 160g A4 paber
+        qty: laste arv + 5 lehte lisa
+    -
+        name: õhupallid
+        qty: 10

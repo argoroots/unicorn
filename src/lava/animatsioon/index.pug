@@ -2,3 +2,44 @@ extends /_templates/main.pug
 
 block content
     +markdown(self.text)
+
+block box
+    h2 Vahendid mis tagastada
+    .font-normal.text-gray-400 on kastis
+    table.table-auto.mt-0
+        thead
+            tr
+                th.px-2
+                th.px-2.text-right kogus
+        tbody
+            each item in self.box
+                tr.hover_bg-green-100
+                    td.px-2.font-semibold= item.name
+                    td.px-2.text-right= item.qty
+
+    h2 Kulumaterjal
+    .font-normal.text-gray-400 on kastis
+    table.table-auto.mt-0
+        thead
+            tr
+                th.px-2
+                th.px-2.text-right kogus
+        tbody
+            each item in self.consumables
+                tr.hover_bg-green-100
+                    td.px-2.font-semibold= item.name
+                    td.px-2.text-right= item.qty
+
+    h2 Vahendid mida on lisaks vaja
+    .font-normal.text-gray-400 ei ole kastis
+    table.table-auto.mt-0
+        thead
+            tr
+                th.px-2
+                th.px-2.text-right kogus
+        tbody
+            each item in self.additions
+                tr.hover_bg-green-100
+                    td.px-2.font-semibold= item.name
+                    td.px-2.text-right= item.qty
+
